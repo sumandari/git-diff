@@ -4,7 +4,7 @@ Reference:
 - https://en.wikipedia.org/wiki/Diff#Unified_format
 - https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/diffs
 
-Following will be explained in Bahasa Indonesia, you can refer to links above to get better tutorial in English
+Following will be explained in Bahasa Indonesia, you can refer to links above to get the better tutorial in English
 
 Tulisan ini hanya menjelaskan cara membaca pesan yang digenerate saat run **diff git** dan ditujukan untuk level beginer.
 
