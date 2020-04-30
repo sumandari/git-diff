@@ -43,7 +43,7 @@ git diff
 atau lakukan git add terlebih dahulu
 ```
 git add old_document.txt
-git diff
+git diff --staged
 ```
 karena disini saya hanya membahas tentang cara membaca pesan, maka kita akan mengabaikan staged status dari file tersebut.
 
